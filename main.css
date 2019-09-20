@@ -59,7 +59,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/IMG_4348.JPG");
+      background: url("IMG_4348.JPG");
       border-radius: 50%;
       border: solid 3px #f700ff94; }
   .menu .nav-item {
@@ -105,7 +105,7 @@ body {
   font-family: 'Big Shoulders Text', cursive;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/tobias-van-schneider-9QrjShkAmnM-unsplash.jpg);
+    background: url(tobias-van-schneider-9QrjShkAmnM-unsplash.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -292,7 +292,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/portrait_small.jpg");
+      background: url("portrait_small.jpg");
       width: 150px;
       height: 150px; }
   .about-info {
