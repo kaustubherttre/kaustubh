@@ -106,7 +106,7 @@ body {
   font-family: 'Big Shoulders Text', cursive;
   line-height: 1.5; }
   body#bg-img {
-    background: url(tobias-van-schneider-9QrjShkAmnM-unsplash.jpg);
+    background: url(bg.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
