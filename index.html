@@ -17,6 +17,9 @@
 </head>
 
 <body id="bg-img">
+     <div class="loader-wrapper">
+          <span class="loader"><span class="loader-inner"></span></span>
+        </div>
 
   <header>
     <div class="menu-btn">
@@ -89,6 +92,10 @@
   </main>
 
   <script src="main.js"></script>
+  <script>$(window).on("load",function(){
+              $(".loader-wrapper").fadeOut("slow");
+            });
+        </script>
 </body>
 
 </html>
